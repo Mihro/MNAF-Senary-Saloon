@@ -1,0 +1,3 @@
+data merge entity @s {ArmorItems:[{id:"minecraft:diamond_boots",Count:1b,tag:{display:{Name:'{"text":"Salvage Freddy Suit Boots"}'}}},{id:"minecraft:diamond_leggings",Count:1b,tag:{display:{Name:'{"text":"Salvage Freddy Suit Legs"}'}}},{id:"minecraft:diamond_chestplate",Count:1b,tag:{display:{Name:'{"text":"Salvage Freddy Suit Torso"}'}}},{id:"minecraft:netherite_hoe",Count:1b,tag:{CustomModelData:60}}],HandItems:[{id:"minecraft:netherite_hoe",Count:1b,tag:{CustomModelData:14}},{id:"minecraft:netherite_hoe",Count:1b,tag:{CustomModelData:13}}]}
+function mnaf:salvage/common/animatronic/dress/remove_type
+tag @s add salvage_freddy

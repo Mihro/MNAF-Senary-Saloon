@@ -1,0 +1,1 @@
+execute if entity @a[tag=player] as @e[tag=salvage,tag=ai,tag=animatronic] at @s run function mnaf:salvage/ai/animatronic/loop

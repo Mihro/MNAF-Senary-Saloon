@@ -1,0 +1,1 @@
+kill @e[tag=camera,sort=nearest,limit=1]

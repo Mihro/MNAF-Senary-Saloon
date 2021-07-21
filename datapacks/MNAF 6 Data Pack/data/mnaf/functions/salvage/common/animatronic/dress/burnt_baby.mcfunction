@@ -1,0 +1,3 @@
+data merge entity @s {ArmorItems:[{id:"minecraft:diamond_boots",Count:1b,tag:{display:{Name:'{"text":"Immolated Circus Baby Boots"}'}}},{id:"minecraft:diamond_leggings",Count:1b,tag:{display:{Name:'{"text":"Immolated Circus Baby Legs"}'}}},{id:"minecraft:diamond_chestplate",Count:1b,tag:{display:{Name:'{"text":"Immolated Circus Baby Chest"}'}}},{id:"minecraft:orange_shulker_box",Count:1b}],HandItems:[{id:"minecraft:netherite_hoe",Count:1b,tag:{CustomModelData:18}},{id:"minecraft:netherite_hoe",Count:1b,tag:{CustomModelData:18}}]}
+function mnaf:salvage/common/animatronic/dress/remove_type
+tag @s add burnt_baby

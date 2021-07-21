@@ -1,0 +1,1 @@
+function mnaf:cctv/camera/give

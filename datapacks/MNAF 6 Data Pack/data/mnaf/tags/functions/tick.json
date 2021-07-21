@@ -1,0 +1,12 @@
+{
+	"values": [
+		"mnaf:cctv/common/loop",
+		"mnaf:cctv/camera/loop",
+		"mnaf:cctv/monitor/loop",
+		"mnaf:salvage/loop",
+		"mnaf:vent/loop",
+		"mnaf:red_office/guard_door/loop",
+		"mnaf:red_office/vents/battery/tick",
+		"mnaf:vixie/loop"
+	]
+}

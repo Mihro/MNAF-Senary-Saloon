@@ -1,0 +1,3 @@
+data merge entity @s {ArmorItems:[{id:"minecraft:chainmail_boots",Count:1b,tag:{display:{Name:'{"text":"Salvage Bon Boots"}'}}},{id:"minecraft:chainmail_leggings",Count:1b,tag:{display:{Name:'{"text":"Salvage Bon Legs"}'}}},{id:"minecraft:chainmail_chestplate",Count:1b,tag:{display:{Name:'{"text":"Salvage Bon Chest"}'}}},{id:"minecraft:netherite_hoe",Count:1b,tag:{CustomModelData:57}}],HandItems:[{id:"minecraft:netherite_hoe",Count:1b,tag:{CustomModelData:9}},{id:"minecraft:netherite_hoe",Count:1b,tag:{CustomModelData:10}}]}
+function mnaf:salvage/common/animatronic/dress/remove_type
+tag @s add salvage_bonnie

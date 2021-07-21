@@ -1,0 +1,3 @@
+data merge entity @s {ArmorItems:[{id:"minecraft:golden_boots",Count:1b,tag:{display:{Name:'{"text":"Salvage Chica Suit Boots"}'}}},{id:"minecraft:golden_leggings",Count:1b,tag:{display:{Name:'{"text":"Salvage Chica Suit Legs"}'}}},{id:"minecraft:golden_chestplate",Count:1b,tag:{display:{Name:'{"text":"Salvage Chica Suit Torso"}'}}},{id:"minecraft:netherite_hoe",Count:1b,tag:{CustomModelData:58}}],HandItems:[{id:"minecraft:netherite_hoe",Count:1b,tag:{CustomModelData:12}},{id:"minecraft:netherite_hoe",Count:1b,tag:{CustomModelData:11}}]}
+function mnaf:salvage/common/animatronic/dress/remove_type
+tag @s add salvage_chica

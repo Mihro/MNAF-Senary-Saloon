@@ -1,0 +1,7 @@
+execute if score Percent VentBattery matches 80..100 run title @s actionbar [{"text":"Vent battery at ","color":"dark_green"},{"score":{"name":"Percent","objective":"VentBattery"}},{"text":"%"}]
+execute if score Percent VentBattery matches 60..79 run title @s actionbar [{"text":"Vent battery at ","color":"green"},{"score":{"name":"Percent","objective":"VentBattery"}},{"text":"%"}]
+execute if score Percent VentBattery matches 40..59 run title @s actionbar [{"text":"Vent battery at ","color":"gold"},{"score":{"name":"Percent","objective":"VentBattery"}},{"text":"%"}]
+execute if score Percent VentBattery matches 20..39 run title @s actionbar [{"text":"Vent battery at ","color":"red"},{"score":{"name":"Percent","objective":"VentBattery"}},{"text":"%"}]
+execute if score Percent VentBattery matches 10..19 run title @s actionbar [{"text":"Vent battery at ","color":"dark_red"},{"score":{"name":"Percent","objective":"VentBattery"}},{"text":"%"}]
+execute if score Percent VentBattery matches 1..9 run title @s actionbar [{"text":"Vent battery at ","color":"dark_red","bold":true},{"score":{"name":"Percent","objective":"VentBattery"}},{"text":"%"}]
+execute if score Percent VentBattery matches 0 run title @s actionbar [{"text":"Vent battery at ","color":"dark_gray","bold":true},{"score":{"name":"Percent","objective":"VentBattery"}},{"text":"%"}]

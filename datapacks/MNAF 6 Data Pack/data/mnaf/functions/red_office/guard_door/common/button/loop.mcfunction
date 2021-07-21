@@ -1,0 +1,2 @@
+execute as @e[tag=guard_door,tag=button_marker] at @s at @a[distance=..3,scores={GrdDrBtnIntrct=1..}] anchored eyes positioned ~ ~1.68 ~ run function mnaf:red_office/guard_door/common/button/interact_ray
+scoreboard players reset @a[scores={GrdDrBtnIntrct=1..}] GrdDrBtnIntrct

@@ -1,0 +1,1 @@
+give @s minecraft:squid_spawn_egg{display:{Name:'"Place Vent"'},EntityTag:{NoAI:1,NoGravity:1,Silent:1,Health:1.0f,Tags:["unset_vent"],DeathTime:19}}

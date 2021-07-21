@@ -1,0 +1,10 @@
+# Run by: as @s[tag=guard_door,tag=red,tag=door,scores={GuardDoorTimer=0}] at @s
+
+execute if score @s GuardDoorPower matches 80..100 run title @a[distance=..5] actionbar [{"text":"Red Door battery at ","color":"dark_green"           },{"score":{"name":"@s","objective":"GuardDoorPower"}},{"text":"%"}]
+execute if score @s GuardDoorPower matches 60..79 run title @a[ distance=..5] actionbar [{"text":"Red Door battery at ","color":"green"                },{"score":{"name":"@s","objective":"GuardDoorPower"}},{"text":"%"}]
+execute if score @s GuardDoorPower matches 40..59 run title @a[ distance=..5] actionbar [{"text":"Red Door battery at ","color":"gold"                 },{"score":{"name":"@s","objective":"GuardDoorPower"}},{"text":"%"}]
+execute if score @s GuardDoorPower matches 20..39 run title @a[ distance=..5] actionbar [{"text":"Red Door battery at ","color":"red"                  },{"score":{"name":"@s","objective":"GuardDoorPower"}},{"text":"%"}]
+execute if score @s GuardDoorPower matches 10..19 run title @a[ distance=..5] actionbar [{"text":"Red Door battery at ","color":"dark_red"             },{"score":{"name":"@s","objective":"GuardDoorPower"}},{"text":"%"}]
+execute if score @s GuardDoorPower matches 10..19 run title @a[ distance=..5] actionbar [{"text":"Red Door battery at ","color":"dark_red"             },{"score":{"name":"@s","objective":"GuardDoorPower"}},{"text":"%"}]
+execute if score @s GuardDoorPower matches 1..9 run title @a[   distance=..5] actionbar [{"text":"Red Door battery at ","color":"dark_red", "bold":true},{"score":{"name":"@s","objective":"GuardDoorPower"}},{"text":"%"}]
+execute if score @s GuardDoorPower matches 0 run title @a[      distance=..5] actionbar [{"text":"Red Door battery at ","color":"dark_gray","bold":true},{"score":{"name":"@s","objective":"GuardDoorPower"}},{"text":"%"}]
