@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mnaf:props/block/skirting",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "mnaf:props/block/skirting",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "mnaf:props/block/skirting"
+    },
+    "facing=west": {
+      "model": "mnaf:props/block/skirting",
+      "y": 90
+    }
+  }
+}

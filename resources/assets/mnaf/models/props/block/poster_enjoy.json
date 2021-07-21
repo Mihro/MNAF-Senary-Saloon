@@ -1,0 +1,53 @@
+{
+	"textures": {
+		"texture": "mnaf:posters/poster_enjoy"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 20, 8.0625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 10, 8]},
+			"faces": {
+				"north": {"uv": [1.911, 0, 14.067, 15.978], "texture": "#texture"},
+				"south": {"uv": [1.911, 0.023, 14.067, 16], "texture": "#texture"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [30, 0, 0],
+			"translation": [0, 0.3, 0],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [30, 0, 0],
+			"translation": [0, 0.3, 0],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 74, 0],
+			"translation": [0, 4.35, 0.57],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 74, 0],
+			"translation": [0, 4.35, 0.57],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 1.52, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"gui": {
+			"translation": [0, -1.75, 0],
+			"scale": [0.78, 0.78, 0.78]
+		},
+		"head": {
+			"translation": [0, 1.5, -6.5]
+		},
+		"fixed": {
+			"translation": [0, 0, -0.25],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	}
+}

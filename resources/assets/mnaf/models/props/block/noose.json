@@ -1,0 +1,67 @@
+{
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "mnaf:props/blocks/noose"
+	},
+	"elements": [
+		{
+			"from": [3.5, 0, 8],
+			"to": [12.5, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.5, 12, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 4.5, 8], "texture": "#0"},
+				"south": {"uv": [4.5, 4.5, 9, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.5, 16, 8],
+			"to": [12.5, 31, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.5, 24, 16]},
+			"faces": {
+				"north": {"uv": [8, 4.5, 12.5, 12], "texture": "#0"},
+				"south": {"uv": [8, 4.5, 12.5, 12], "texture": "#0"},
+				"up": {"uv": [0, 0, 4.5, 0.15], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 55],
+			"translation": [0, 0, -0.25],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 55],
+			"translation": [0, 0, -0.25],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, -28],
+			"translation": [2, 2, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, -28],
+			"translation": [2, 2, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"ground": {
+			"translation": [0, 3.25, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, -30],
+			"translation": [-2, -3.5, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"head": {
+			"translation": [0, 16.5, 0],
+			"scale": [3.8, 3.8, 3.8]
+		},
+		"fixed": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, -69],
+			"scale": [3, 3, 3]
+		}
+	}
+}

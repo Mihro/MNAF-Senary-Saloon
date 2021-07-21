@@ -1,0 +1,58 @@
+{
+	"textures": {
+		"0": "mnaf:props/blocks/blue_guard_door"
+	},
+	"elements": [
+		{
+			"from": [-8, -16, 8],
+			"to": [24, 32, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 10]},
+			"faces": {
+				"north": {"uv": [4, 4, 8, 10], "texture": "#0"},
+				"east": {"uv": [0, 6, 0.25, 12], "texture": "#0"},
+				"south": {"uv": [4, 4, 8, 10], "texture": "#0"},
+				"west": {"uv": [0.25, 6, 0.5, 12], "texture": "#0"},
+				"up": {"uv": [4.25, 4, 4, 0], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [4.5, 0, 4.25, 4], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [60, 0, 0],
+			"translation": [0, 1, 1.5],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [60, 0, 0],
+			"translation": [0, 1, 1.5],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -45, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -45, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"ground": {
+			"translation": [0, 3.5, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [30, 135, 0],
+			"translation": [0, -0.25, 0],
+			"scale": [0.28, 0.28, 0.28]
+		},
+		"head": {
+			"translation": [30.25, -19.25, -2],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [-16, -2, -48],
+			"scale": [2, 2, 2]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "mnaf:salvage/salvage_master",
+	"textures": {
+		"0": "mnaf:salvage/salvage_3"
+	}
+}

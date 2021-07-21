@@ -1,0 +1,349 @@
+{
+	"cctv.camera.enter": {
+		"sounds": [
+			{
+				"name": "mnaf:cctv/camera_enter",
+				"pitch": 0.8,
+				"weight": 1
+			},
+			{
+				"name": "mnaf:cctv/camera_enter",
+				"pitch": 0.9,
+				"weight": 1
+			},
+			{
+				"name": "mnaf:cctv/camera_enter",
+				"pitch": 1.0,
+				"weight": 1
+			},
+			{
+				"name": "mnaf:cctv/camera_enter",
+				"pitch": 1.1,
+				"weight": 1
+			},
+			{
+				"name": "mnaf:cctv/camera_enter",
+				"pitch": 1.2,
+				"weight": 1
+			}
+		]
+	},
+	"cctv.camera.turn": {
+		"sounds": [
+			{
+				"name": "mnaf:cctv/camera_turn",
+				"stream": true
+			}
+		]
+	},
+	"salvage.ai.vent": {
+		"sounds": [
+			"mnaf:salvage/ai/vent_sound"
+		]
+	},
+	"salvage.ai.breathe.bonnie": {
+		"sounds": [
+			"mnaf:salvage/ai/breathe"
+		]
+	},
+	"salvage.ai.moan.freddy": {
+		"sounds": [
+			"mnaf:salvage/ai/moan"
+		]
+	},
+	"salvage.ai.scream.bonnie": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/common/bonnie_scream",
+				"stream": true
+			}
+		]
+	},
+	"salvage.ai.scream.freddy": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/common/freddy_scream",
+				"stream": true
+			}
+		]
+	},
+	"salvage.taser": {
+		"sounds": [
+			"mnaf:salvage/shed/tasershort"
+		]
+	},
+	"salvage.correct": {
+		"sounds": [
+			"mnaf:salvage/shed/correct"
+		]
+	},
+	"salvage.incorrect": {
+		"sounds": [
+			"mnaf:salvage/shed/error"
+		]
+	},
+	"salvage.try_again": {
+		"sounds": [
+			"mnaf:salvage/shed/tryagain"
+		]
+	},
+	"salvage.night.1.1": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_1/night1_1",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.1.2": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_1/night1_2",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.1.3": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_1/night1_3",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.1.4": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_1/night1_4",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.1.5": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_1/night1_5",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.1.6": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_1/night1_6",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.1.7": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_1/night1_7",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.1.8": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_1/night1_8",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.1.9": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_1/night1_9",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.1.10": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_1/night1_10",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.1.salvage_bonnie_scream": {
+		"sounds": [
+			"mnaf:salvage/shed/night_1/salvage_bonnie_scream"
+		]
+	},
+	"salvage.night.2.1": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_2/salvage2_01",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.2.2": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_2/salvage2_02",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.2.3": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_2/salvage2_03",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.2.4": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_2/salvage2_04",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.2.5": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_2/salvage2_end",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.2.salvage_freddy_scream": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_2/freddy_scream"
+			}
+		]
+	},
+	"salvage.night.2.phone.beginning": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_2/phone_beginning"
+			}
+		]
+	},
+	"salvage.night.2.phone.end": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_2/phone_end"
+			}
+		]
+	},
+	"salvage.night.3.1": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/night3_01",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.3.2": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/night3_02",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.3.3": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/night3_03",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.3.4": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/night3_04",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.3.5": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/night3_05",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.3.6": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/night3_06",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.3.phone.end": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/night3_07",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.3.salvage_foxy_scream": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/salvage_foxy_scream",
+				"stream": true,
+				"pitch": 1.4
+			}
+		]
+	},
+	"salvage.night.4.1": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_4/night4_1",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.4.2": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_4/night4_2",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.4.3": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_4/night4_3",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.4.4": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_4/night4_4",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.4.5": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_4/night4_5",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night.4.6": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_4/night4_6",
+				"stream": true
+			}
+		]
+	}
+}

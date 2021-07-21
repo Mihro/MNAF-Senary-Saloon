@@ -1,0 +1,38 @@
+{
+	"__comment": "Designed by Lord_Shadowsoul17 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "blocks/e_particle",
+		"texture": "custom/staticlist"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "PlaneZ1",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 0.001 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ -6, -5.6, 16 ],
+			"scale":  [ 0.01, 0.01, 0.01 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ -6, -5.6, 16 ],
+			"scale":  [ 0.01, 0.01, 0.01 ]
+		},
+		"firstperson_righthand": {
+			"translation":  [ -9.043, 7.6521, -11.81 ],
+			"scale":  [ 4, 4, 0.0001 ]
+		},
+		"firstperson_lefthand": {
+			"translation":  [ -9.043, 7.6521, -11.81 ],
+			"scale":  [ 4, 4, 0.0001 ]
+		}
+	}
+}

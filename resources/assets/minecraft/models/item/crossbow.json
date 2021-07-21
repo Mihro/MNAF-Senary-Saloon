@@ -1,0 +1,25 @@
+{
+    "parent": "mnaf:props/item/toy_gun",
+    "overrides": [
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "mnaf:props/item/toy_gun_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "mnaf:props/item/toy_gun_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "mnaf:props/item/toy_gun_pulling_2"
+        }
+    ]
+}
