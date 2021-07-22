@@ -1,1 +1,1 @@
-function mnaf:salvage/chapters/reset
+function mnaf:salvage/ai/init
