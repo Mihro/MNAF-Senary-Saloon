@@ -1,5 +1,8 @@
-DIM1
-DIM-1
-stats
+DIM1/
+DIM-1/
+stats/
 serverconfig
-playerdata
+playerdata/
+session.lock
+data/raids.dat
+level.dat_old
