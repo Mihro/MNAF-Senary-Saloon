@@ -1,0 +1,1 @@
+function mnaf:admin/give/help_book

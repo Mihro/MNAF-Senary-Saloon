@@ -1,1 +1,0 @@
-give @s writable_book{pages:[{"text":"Hello world!", "color":"white"}]}
