@@ -1,7 +1,13 @@
 # Player
+## Effect
 execute if entity @s[type=player] run effect clear @s invisibility
+## Team
 execute if entity @s[type=player] run team leave @s
+## Items
+execute if entity @s[type=player] run tag @s[nbt={SelectedItem:{id:"minecraft:written_book",tag:{title:"MNAF Handy-Dandy Book"}}}] add target
 execute if entity @s[type=player] run clear @s
+execute if entity @s[type=player,tag=target] run function mnaf:admin/give/help_book
+execute if entity @s[type=player,tag=target] run tag @s remove target
 
 # Armorstand
 execute if entity @s[type=armor_stand] run data merge entity @s {ArmorItems:[],HandItems:[]}
