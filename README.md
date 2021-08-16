@@ -34,6 +34,13 @@
 - Optifine 1.16.5 HD_U_G7
 
 ---
+# How to Play
+The most useful thing in the map is the "MNAF Handy-Dandy Book" which lists shortcuts to most of the features that are available.
+
+You can get one using the command `/function mnaf:help_book`.  
+You must be opped to use it.
+
+---
 # Credits
 | Role                  | Persons                                                                                                               |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------- |
