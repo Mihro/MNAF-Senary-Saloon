@@ -6,10 +6,10 @@
   <h1 align=center>Mine Nights at Freddys: Senary Saloon</h3>
   <p align=center>The download for CavemanFilms' MNAF season 6 series; Senary Saloon.</p>
   <p align=center>
-    <img src="https://img.shields.io/discord/330777461262516235?color=768ACC&label=Discord&style=for-the-badge" alt="Discord">
+    <a href="https://discord.com/invite/cavemanfilms"><img src="https://img.shields.io/discord/330777461262516235?color=768ACC&label=Discord&style=for-the-badge" alt="Discord"></a?
     <img src="https://img.shields.io/github/downloads/Mihro/MNAF-Senary-Saloon/total?style=for-the-badge" alt="GitHub all releases">
     <img src="https://img.shields.io/github/languages/code-size/Mihro/MNAF-Senary-Saloon?style=for-the-badge" alt="GitHub code size in bytes">
-    <img src="https://img.shields.io/github/v/release/Mihro/MNAF-Senary-Saloon?style=for-the-badge" alt="GitHub release (latest by date)">
+    <a href="https://github.com/Mihro/MNAF-Senary-Saloon/releases/latest"><img src="https://img.shields.io/github/v/release/Mihro/MNAF-Senary-Saloon?style=for-the-badge" alt="GitHub release (latest by date)"></a>
   </p>
 </p>
 
