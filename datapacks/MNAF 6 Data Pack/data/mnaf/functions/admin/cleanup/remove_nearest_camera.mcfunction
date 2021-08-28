@@ -1,1 +1,0 @@
-function mnaf:cctv/camera/remove_nearest_camera

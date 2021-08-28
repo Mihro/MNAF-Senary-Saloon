@@ -1,1 +1,0 @@
-function mnaf:salvage/summon
