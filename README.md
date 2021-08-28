@@ -54,4 +54,4 @@ You must be opped to use it.
 
 
 <!-- MARKDOWN LINKS -->
-[download-latest]: https://github.com/Mihro/MNAF-Senary-Saloon/archive/refs/tags/v0.1.0.zip
+[download-latest]: https://github.com/Mihro/MNAF-Senary-Saloon/releases/latest
