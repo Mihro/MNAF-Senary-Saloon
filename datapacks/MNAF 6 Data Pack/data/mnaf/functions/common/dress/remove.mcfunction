@@ -4,8 +4,8 @@ execute if entity @s[type=player] run effect clear @s invisibility
 ## Team
 execute if entity @s[type=player] run team leave @s
 ## Items
-execute if entity @s[type=player] run clear @s
-execute if entity @s[type=player] run function mnaf:admin/give/help_book
+execute if entity @s[type=player] run clear @s #mnaf:costume_items
+#execute if entity @s[type=player] run function mnaf:admin/give/help_book
 
 # Armorstand
 execute if entity @s[type=armor_stand] run data merge entity @s {ArmorItems:[],HandItems:[]}
